@@ -1,6 +1,4 @@
 ## https://discordpy.readthedocs.io/en/stable/intro.html
-## https://www.youtube.com/watch?v=jh1CtQW4DTo
-## to stop running code its CTRL + C
 ## thanks to the api docs link here: https://python-tradingview-ta.readthedocs.io/en/latest/faq.html
 from typing import List
 import discord
